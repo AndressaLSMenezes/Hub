@@ -32,8 +32,16 @@
 - Modal de Edição e Exclusão de tecnologia.
 
 ## Como rodar o projeto?
+Você pode acessar o link do deploy ou clonar o repositório.
+
+### 1. Acessar o link do deploy
+
+<a href="https://kenzie-hub-kappa-seven.vercel.app/" >Clique Aqui para acessar</a>
+
+### 2. Clonar o Repositório 
 
 Ao clonar o projeto, você seguirá os passos abaixo:
 
-1. Execute o comando "yarn install" para instalar as dependências do servidor.
-2. Após a instalação, execute o comando "yarn start" para iniciar o servidor.
+1. Execute o comando ```yarn install``` para instalar as dependências do servidor.
+
+2. Após a instalação, execute o comando ```yarn start``` para iniciar o servidor.
